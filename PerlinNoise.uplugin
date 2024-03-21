@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PerlinNoise",
+	"Description": "Perlin noise 2D array",
+	"Category": "Noise",
+	"CreatedBy": "Mike Betthauser",
+	"CreatedByURL": "https://github.com/ArtoLabs",
+	"DocsURL": "https://github.com/ArtoLabs/PerlinNoiseBlueprintLibrary",
+	"MarketplaceURL": "",
+	"SupportURL": "https://chat.openai.com/share/a23c587b-0cff-43c8-bedc-18a85a2cb54e",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PerlinNoise",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
